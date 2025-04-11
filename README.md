@@ -18,12 +18,10 @@ Download the ZIP from:
 
 **`https://github.com/AbobrinhaSince1999/MIDI2QWERTY/archive/refs/heads/main.zip`**
 
----
-
 #### 3. Unzip and open the **MIDI2QWERTY** folder
 
 Double-click on **`setup.bat`**  
-Wait until the message **"✔ Environment setup complete!"** appears, then close the window.
+Wait until the message **"Setup complete!"** appears, then close the window.
 
 ---
 
@@ -35,7 +33,7 @@ Double-click on **`start.bat`** to launch the program.
 
 ### ✅ **Tested On**
 
-- **Yamaha P-125**
+- **Digital Piano Yamaha P-145**
 
 ---
 
